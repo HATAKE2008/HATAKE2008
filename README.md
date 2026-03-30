@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hatake2008&show_icons=true&locale=en" alt="" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hatake2008&" alt="hatake2008" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hatake2008& theme=tokyonight" alt="hatake2008" /></p>
